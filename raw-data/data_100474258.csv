@@ -1,0 +1,71 @@
+Country;MilitaryExpenditure;Inflation;GPI;OECD;GDPpc;Division
+Chad;2.91;2.7;2.699;0;0.7193848752;Africa
+Iraq;2.07;4.4;3.006;0;5.51247572;Asia
+Indonesia;0.68;3.7;1.829;0;4.940549805;Asia
+Cote d'Ivoire;0.89;4.4;2.053;0;2.728803246;Africa
+Malawi;1.01;30.3;1.97;0;0.6728697022;Africa
+Georgia;1.68;2.5;2.071;0;8.120363443;Europe
+Burundi;3.66;27;2.872;0;0.1995807602;Africa
+Estonia;2.87;9.1;1.563;1;29.82374961;Europe
+Italy;1.61;5.9;1.662;1;38.37316605;Europe
+Guinea-Bissau;1.46;7.2;2.045;0;0.9142751538;Africa
+Czechia;1.52;10.7;1.379;1;30.42742347;Europe
+Kazakhstan;0.48;14.6;1.98;0;13.13662291;Asia
+Japan;1.2;3.3;1.336;1;33.83439211;Asia
+Kuwait;4.9;3.6;1.669;0;37.53321772;Asia
+Ghana;0.39;37.5;1.799;0;2.238158021;Africa
+Honduras;1.57;6.7;2.265;0;3.247231055;North America
+Norway;1.61;5.5;1.55;1;87.96178061;Europe
+Cyprus;1.82;3.9;1.904;0;34.70144141;Europe
+Kenya;0.91;7.7;2.254;0;1.949898969;Africa
+North Macedonia;1.7;9.4;1.713;0;8.146467975;Europe
+Bulgaria;1.85;8.6;1.643;0;15.79759558;Europe
+Namibia;2.74;5.9;1.859;0;4.742783827;Africa
+Pakistan;2.8;29.2;2.745;0;1.407021351;Asia
+Nicaragua;0.55;8.4;2.294;0;2.530291072;North America
+Sweden;1.47;5.9;1.625;1;56.3052502;Europe
+Saudi Arabia;7.09;2.3;2.26;0;28.89496335;Asia
+Chile;1.63;7.6;1.874;1;17.09324197;South America
+Dominican Republic;0.74;4.8;2.019;0;10.71601336;North America
+Spain;1.51;3.4;1.649;1;32.67698371;Europe
+Senegal;1.47;5.9;1.827;0;1.745972068;Africa
+Türkiye;1.5;53.9;2.8;1;12.98575315;Europe
+Egypt;0.87;24.4;2.267;0;3.512580065;Africa
+Kosovo;1.25;5.2;1.946;0;5.943125714;Europe
+Papua New Guinea;0.31;2.3;2.095;0;2.994453327;Oceania
+Oman;5.4;0.9;1.794;0;23.29532996;Asia
+Togo;4.01;5.1;2.13;0;1.012973873;Africa
+Ethiopia;0.79;30.2;2.872;0;1.293778008;Africa
+China;1.67;0.2;2.009;0;12.61406099;Asia
+Hungary;2.13;17.1;1.508;1;22.14720973;Europe
+Iran;2.06;41.5;2.8;0;4.502546329;Asia
+Mozambique;1.73;6.1;2.259;0;0.6084427076;Africa
+Ukraine;36.65;12.9;3.043;0;5.181362793;Europe
+El Salvador;1.28;4;2.279;0;5.344214394;North America
+Burkina Faso;4.01;0.9;2.868;0;0.8741212804;Africa
+Belgium;1.21;2.3;1.523;1;53.4752935;Europe
+Moldova;0.55;13.4;1.873;0;6.650647957;Europe
+Morocco;3.64;6.1;2.02;0;3.672112305;Africa
+Mali;3.83;2.1;2.963;0;0.8974486703;Africa
+South Africa;0.73;5.9;2.405;0;6.253161613;Africa
+Trinidad and Tobago;0.89;4.6;1.946;0;18.33296402;North America
+Guatemala;0.41;6.2;2.13;0;5.797521596;North America
+Denmark;1.95;3.4;1.31;1;67.96738187;Europe
+Cambodia;2.09;2.1;1.947;0;1.875071482;Asia
+Serbia;2.85;12.4;1.921;0;11.36095951;Europe
+Tajikistan;1.22;3.7;2.114;0;1.188993038;Asia
+Madagascar;0.66;9.9;1.846;0;0.5286501548;Africa
+Bahrain;3.11;0.1;2.145;0;29.08430713;Asia
+Korea, South;2.81;3.6;1.763;1;33.12137129;Asia
+Nepal;1.08;7.8;2.006;0;1.324031984;Asia
+Bosnia and Herzegovina;0.81;6.1;1.892;0;8.42609111;Europe
+Algeria;8.17;9.3;2.094;0;5.26020625;Africa
+Cameroon;0.93;7.2;2.66;0;1.673648889;Africa
+Jamaica;1.22;6.5;1.986;0;6.874200284;North America
+Malaysia;0.93;2.5;1.513;0;11.64867416;Asia
+Tanzania;1.15;4;2.058;0;1.211058594;Africa
+Azerbaijan;4.6;8.2;2.09;0;7.155083604;Europe
+Uruguay;2;5.9;1.798;0;22.56453246;South America
+Gabon;1.15;3.6;2.068;0;8.420102057;Africa
+Latvia;2.27;9.1;1.582;1;23.18431167;Europe
+Zambia;1.3;11;1.898;0;1.369129365;Africa
