@@ -5,7 +5,7 @@
 
 #This is the link where our data is stored 
 open_project_folder <- function() {
-  link <- "https://drive.google.com/drive/u/0/folders/1YNj60eZEQTmyZ7nyGbrlCxwOHrEaWEsM"
+  link <- "https://github.com/100474258/2nd-Assignment_Abel_Agut_Rabadan.git"
   browseURL(link)
 }
 open_project_folder()
